@@ -1,0 +1,45 @@
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\Banque.exe
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\Banque.deps.json
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\Banque.runtimeconfig.json
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\Banque.dll
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\ref\Banque.dll
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\bin\Debug\net6.0\Banque.pdb
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.csproj.AssemblyReference.cache
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.AssemblyInfoInputs.cache
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.AssemblyInfo.cs
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.csproj.CoreCompileInputs.cache
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.dll
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\ref\Banque.dll
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.pdb
+C:\Users\Chris Chamalet\Desktop\Workspace\Banque\obj\Debug\net6.0\Banque.genruntimeconfig.cache
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\Banque.exe
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\Banque.deps.json
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\Banque.runtimeconfig.json
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\Banque.dll
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\ref\Banque.dll
+C:\Wassim\CDA\Banque\bin\Debug\net6.0\Banque.pdb
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.csproj.AssemblyReference.cache
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.AssemblyInfoInputs.cache
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.AssemblyInfo.cs
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.csproj.CoreCompileInputs.cache
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.dll
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\ref\Banque.dll
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.pdb
+C:\Wassim\CDA\Banque\obj\Debug\net6.0\Banque.genruntimeconfig.cache
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\Banque.exe
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\Banque.deps.json
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\Banque.runtimeconfig.json
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\Banque.dll
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\ref\Banque.dll
+C:\Wassim\CDA\C#\banque\bin\Debug\net6.0\Banque.pdb
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.csproj.AssemblyReference.cache
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.AssemblyInfoInputs.cache
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.AssemblyInfo.cs
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.csproj.CoreCompileInputs.cache
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.dll
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\ref\Banque.dll
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.pdb
+C:\Wassim\CDA\C#\banque\obj\Debug\net6.0\Banque.genruntimeconfig.cache
